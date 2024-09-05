@@ -17,6 +17,10 @@ header:
     title: Screenshots
     identifier: screenshots
     description: Screenshots of SuperTux Advance.
+  - url: /library
+    title: Library
+    identifier: library
+    description: SuperTux Advance lore!
   - url: /contribute
     title: Contribute
     identifier: contribute
