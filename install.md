@@ -22,7 +22,7 @@ To install SuperTux Advance, you need to download two things.
 
 Cloning with `git` will allow you to get the latest STA updates by running `git pull`.
 
-To clone the repository, make sure you have [Git](https://git-scm.com/){:target="_blank"} installed, and run `git clone https://github.com/KelvinShadewing/supertux-advance.git`.
+To clone the repository, make sure you have [Git](https://git-scm.com/){:target="_blank"} installed, and run `git clone https://codeberg.org/KelvinShadewing/supertux-advance.git`.
 
 ---
 
