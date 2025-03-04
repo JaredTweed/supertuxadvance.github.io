@@ -9,4 +9,4 @@ The website aims to be a helpful resource for:
 * Potentially helping new people discover STA;
 * Giving basic info about contributing to the game and the various ways to do that in.
 
-Contributions to the website are welcome! Please check out the [SuperTux Advance repository](https://github.com/KelvinShadewing/supertux-advance) as well.
+Contributions to the website are welcome! Please check out the [SuperTux Advance repository](https://codeberg.org/KelvinShadewing/supertux-advance) as well.
