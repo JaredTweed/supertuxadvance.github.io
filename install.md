@@ -14,7 +14,7 @@ You can download pre-built packages from here: https://kelvinshadewing.itch.io/s
 To install SuperTux Advance, you need to download two things.
 
 1. A Brux Runtime nightly build - get it from [here](http://kelvinshadewing.net/dl/brux-nightly.zip){:target="_blank"}.
-2. SuperTux Advance source code - get it from [here](https://github.com/KelvinShadewing/supertux-advance/archive/refs/heads/main.zip){:target="_blank"}, or clone it, using `git`.
+2. SuperTux Advance source code - get it from [here](https://codeberg.org/KelvinShadewing/supertux-advance/archive/main.zip){:target="_blank"}, or clone it, using `git`.
 
 ---
 
