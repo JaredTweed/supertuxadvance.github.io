@@ -9,7 +9,7 @@ layout: default
 
 You can download pre-built packages from here: https://kelvinshadewing.itch.io/supertux-advance
 
-## Install from GitHub
+## Install from Codeberg
 
 To install SuperTux Advance, you need to download two things.
 
