@@ -9,7 +9,7 @@ layout: default
 
 # What is SuperTux Advance?
 
-SuperTux Advance is a fan game of [SuperTux](https://supertux.org){:target="_blank"} written in Squirrel using [Brux GDK](https://github.com/KelvinShadewing/brux-gdk){:target="_blank"}. The name comes from the graphical style, which uses a lower resolution display and a sprite style similar to Sonic Advance. Gameplay is not a 1 to 1 recreation of SuperTux, nor does it aim to be. It's meant to be a more fast-paced action platformer than a Mario clone. While the gameplay is designed with speedrunning in mind, it is not an essential skill; the game can be played and beaten casually.
+SuperTux Advance is a fan game of [SuperTux](https://supertux.org){:target="_blank"} written in Squirrel using [Brux GDK](https://codeberg.org/KelvinShadewing/brux-gdk){:target="_blank"}. The name comes from the graphical style, which uses a lower resolution display and a sprite style similar to Sonic Advance. Gameplay is not a 1 to 1 recreation of SuperTux, nor does it aim to be. It's meant to be a more fast-paced action platformer than a Mario clone. While the gameplay is designed with speedrunning in mind, it is not an essential skill; the game can be played and beaten casually.
 
 Some assets from SuperTux will be used, with graphics being remixed to match the game's visual style.
 
@@ -61,7 +61,7 @@ You can rebind the controls from the Options menu found on the title screen.
 
 *Q:* I found a glitch!
 
-**A:** Great job! Report it in the ["Issues" tab of the GitHub Repository](https://github.com/KelvinShadewing/supertux-advance/issues){:target="_blank"}! (Make sure you're playing the most recent version, too!)
+**A:** Great job! Report it in the ["Issues" tab of the Codeberg Repository](https://codeberg.org/KelvinShadewing/supertux-advance/issues){:target="_blank"}! (Make sure you're playing the most recent version, too!)
 
 *Q:* How do I know how long I can use the flying powerup before I stop flying?
 
@@ -73,8 +73,8 @@ You can rebind the controls from the Options menu found on the title screen.
 
 *Q:* Who is Midi?
 
-**A:** Midi Waffle is the main character of another game I'm working on, Kyrodian Legends. He's also the mascot for [Brux GDK](https://github.com/KelvinShadewing/brux-gdk){:target="_blank"}!
+**A:** Midi Waffle is the main character of another game I'm working on, Kyrodian Legends. He's also the mascot for [Brux GDK](https://codeberg.org/KelvinShadewing/brux-gdk){:target="_blank"}!
 
 <p class="primary" markdown="1">
-    View SuperTux Advance on [GitHub](https://github.com/KelvinShadewing/supertux-advance){:target="_blank"}.
+    View SuperTux Advance on [Codeberg](https://codeberg.org/KelvinShadewing/supertux-advance){:target="_blank"}.
 </p>
